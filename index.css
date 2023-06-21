@@ -1,0 +1,31 @@
+.up{
+    background-color: yellow;
+    height: 70vh;
+    width: 100vw;
+}
+
+
+.down{
+    background-color: rgb(173, 13, 136);
+    height: 30vh;
+    width: 100vw;
+}
+
+.triangle {
+        position: relative;
+        left: 42vw;
+        width: 0;
+        height: 0;
+        border-left: 90px solid transparent;
+        border-right: 90px solid transparent;
+        border-top: 80px solid yellow;
+}
+
+
+.head{
+    position: relative;
+    top:30%;
+    left:40%;
+    font-weight: 400;
+    color: black;
+}
